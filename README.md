@@ -78,7 +78,6 @@ hobbies: ["Gaming", "Cinema", "Football", "Club Africain"]
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=byarbi&theme=radical" alt="GitHub Streak"/>
 </p>
 
-![Snake animation](https://github.com/byarbi/byarbi/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
