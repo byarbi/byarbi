@@ -27,7 +27,7 @@ fields_of_interests:
     "Machine Learning",
     "Deep Learning",
     "Data Science",
-    "Data Related fildes",
+    "Data Related fields",
   ]
 technical_background:
   [
