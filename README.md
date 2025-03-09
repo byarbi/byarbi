@@ -68,9 +68,7 @@ hobbies: ["Gaming", "Cinema", "Football", "Club Africain"]
 
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+
   
 --- 
 <h2 align="center">🔥 GitHub Stats</h2>
@@ -80,6 +78,11 @@ hobbies: ["Gaming", "Cinema", "Football", "Club Africain"]
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=byarbi&theme=radical" alt="GitHub Streak"/>
 </p>
 
+![Snake animation](https://github.com/thepiyushmalhotra/byarbi/blob/output/github-contribution-grid-snake.svg)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
 
 <!--**byarbi/byarbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
